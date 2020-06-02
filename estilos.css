@@ -1,0 +1,17 @@
+h1 {
+  color: black;
+  front-size: 80
+}
+
+#thirdDiv {
+  height: 500px;
+  width: 600px
+  padding: 50px;
+  border: 10px solid;
+}
+
+#spanId {
+ front-size: 18pc;
+ margin: 50px;
+
+}
